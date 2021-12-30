@@ -1,0 +1,13 @@
+BUILD=production
+CodePushDeploymentKey=5f2OvwEs_B6HJyYQU-VMIPULLFjPqBVCL9KdQ
+CodePushDeploymentIOSKey=xIeNOER1jT67Kgx6-cA4IJ7xTxaJTCjyrtJ5f
+fb_login_protocol_scheme=fb4048601501858462
+facebook_app_id=4048601501858462
+build_config_package=com.gsoft.newsapp
+app_name=Urdu News
+LINKING_URL=https:/$()/urdushorts.gsoftconsulting.com
+API_URL=\"
+PACKAGE_NAME=com.gsoft.newsapp
+APP_STORE_ID=1
+NotificationTopic=urdushort
+AppNotificationTopic=announcements

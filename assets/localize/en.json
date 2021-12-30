@@ -1,0 +1,188 @@
+{
+  "AppName": "Magazine",
+  "IntroScreen": {
+    "title1": "The Great Gatsby",
+    "text1": "Man reading should be man intensely alive. The book should be a ball of light in one’s hand.",
+    "title2": "Pride and Prejudice",
+    "text2": "Once you learn to read, you will be forever free.",
+    "title3": "Brave New World",
+    "text3": "Reading is essential for those who seek to rise above the ordinary."
+  },
+  "Tabs": {
+    "home": "Home",
+    "book": "Book",
+    "search": "Search",
+    "profile": "Profile"
+  },
+  "LoginScreen": {
+    "email": "Email",
+    "password": "Password",
+    "invalidEmail": "Enter a valid email",
+    "emptyEmail": "Email is required",
+    "emptyPassword": "Password is required",
+    "passwordLength": "Password is too short",
+    "shotName": "Name is too short",
+
+    "login": "Sign In",
+    "noAccount": "Don't have an account?",
+    "createAccount": "Create your Account"
+  },
+  "RegisterScreen": {
+    "name": "Name",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "password": "Password",
+    "emptyName": "Name is required",
+    "invalidEmail": "Enter a valid email",
+    "emptyEmail": "Email is required",
+    "emptyPassword": "Password is required",
+    "signin": "Sign Up",
+    "haveAccount": "Already have an account?",
+    "login": "Sign In",
+    "confirmPassword": "Confirm Password",
+    "emptyPhoneNumber": "Phone Number is required",
+    "emptyConfirmPassword": "Confirm Password is required",
+    "matchPassword": "password and confirm password not match",
+    "phoneNumberError": "Phone number must be at least 9 characters long"
+  },
+  "HomeScreen": {
+    "title": "Home",
+    "search": "Search",
+    "trendingBooks": "Trending",
+    "popularBooks": "Popular",
+    "authors": "Authors To Follow",
+    "recommended": "Recommended",
+    "newsWeeklies": "News Weeklies",
+    "more": "More"
+  },
+  "AuthorProfileScreen": {
+    "title": "The Author",
+    "books": "magazine",
+    "comments": "Comments",
+    "reviews": "Reviews",
+    "followers": "Followers"
+  },
+  "Edition": {
+    "title": "Edition"
+  },
+  "BookDetailScreen": {
+    "title": "Book Detail",
+    "tab1": "Book Details",
+    "tab2": "Reviews",
+    "tab3": "Comments",
+    "reviews": "Reviews",
+    "pages": "Pages",
+    "language": "Langauge",
+    "description": "Description"
+  },
+  "FilterModal": {
+    "recentSearch": "Recent Searched"
+  },
+  "SearchScreen": {
+    "title": "Search ",
+    "search": "Search",
+    "popularSearches": "Popular Searches",
+    "more": "More",
+    "recentSearch": "Recent Searched"
+  },
+  "UserProfileScreen": {
+    "title": "The User",
+    "reading": "Reading List",
+    "wishList": "Wishlist",
+    "books": "Books",
+    "followers": "Followers"
+  },
+  "ShoppingCartScreen": {
+    "title": "Shopping Cart",
+    "items": "items",
+    "subtotal": "Subtotal",
+    "deliveryfee": "Delivery Fee",
+    "total": "Total",
+    "checkout": "Checkout"
+  },
+  "CheckoutScreen": {
+    "title": "Check Out",
+    "pay": "Pay",
+    "paymentMethod": "Payment Method",
+    "paypal": "Paypal",
+    "creditCard": "Credit Card",
+    "onDelivery": "On Delivery ",
+    "cardNumber": "Card Number",
+    "cardTitle": "Name on the card",
+    "expiryDate": "Expiry Date",
+    "cw": "CVV"
+  },
+  "ReadMagazine": {
+    "title": "Read Magazine"
+  },
+  "Drawer": {
+    "logout": "Log out"
+  },
+  "emptyMessage": "No Book Found",
+  "SignInScreen": {
+    "UserRequired": "User Name is required",
+    "ValidPassword": "Enter valid Password",
+    "PasswordRequired": "Password is required",
+    "userLabel": "Username",
+    "PasswordLabel": "Password",
+    "ValidEmail": "Enter valid Email",
+    "EmailRequired": "Email is required",
+    "ForgetPassword": "Forget Password?",
+    "SignUp": "Sign Up",
+    "EmailLabel": "Email",
+    "guest": "Guest Login",
+    "button": "Sign In",
+    "VerifyError": "Please verify your user by checking your email",
+    "validCode": "Please enter valid code  not valid"
+  },
+  "SignUpScreen": {
+    "UserRequired": "User Name is required",
+    "NameRequired": "Name is required",
+    "ValidEmail": "Enter valid Email",
+    "EmailRequired": "Email is required",
+    "ValidPassword": "Enter valid Password",
+    "PasswordRequired": "Password is required",
+    "PopUpHeader": "Verify Email",
+    "PopUp": "Please verify your user by checking your email",
+    "PopUpOK": "Ok",
+    "NameLabel": "Name",
+    "userLabel": "Username",
+    "PasswordLabel": "Password",
+    "EmailLabel": "Email",
+    "button": "Sign Up",
+    "SignIn": "Sign In"
+  },
+  "LoginPopUp": {
+    "PopUpHeader": "Login",
+
+    "PopUp": "Please Login before this",
+    "PopUpOK": "Ok",
+    "PopUpCancel": "Cancel"
+  },
+  "CategoryCard": {
+    "empty": "No Channel Available"
+  },
+  "DetailHeader": {
+    "title": "Urdu Shorts"
+  },
+  "MenuHeader": {
+    "title": "Urdu Shorts"
+  },
+  "NewsCard": {
+    "detailText": "تفصیل دیکیں"
+  },
+  "NewsList": {
+    "refresh": "Refresh",
+    "empty": "کوئی خبر نہیں"
+  },
+  "Home": {
+    "empty": " اپنے پسندیدہ قیسم کو فالو کریں"
+  },
+  "AllNews": {
+    "empty": "کوئی قسم نی ہے"
+  },
+  "SavedNews": {
+    "empty1": "کوئی محفوظ شدہ خبر نہی",
+    "empty2": "برائے کرم خبروں کو محفوظ کرنے کے لئے لاگ ان کریں"
+  }
+}

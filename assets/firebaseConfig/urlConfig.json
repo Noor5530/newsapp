@@ -1,0 +1,5 @@
+{
+  "baseUrl": "http://ec2-13-228-230-199.ap-southeast-1.compute.amazonaws.com/api/v1/",
+  "authKey": "key",
+  "keyPassword": "22334411"
+}

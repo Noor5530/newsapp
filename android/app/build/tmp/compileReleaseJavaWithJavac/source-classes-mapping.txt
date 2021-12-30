@@ -1,0 +1,9 @@
+com/gsoft/newsapp/MainActivity.java
+ com.gsoft.newsapp.MainActivity
+com/gsoft/newsapp/BuildConfig.java
+ com.gsoft.newsapp.BuildConfig
+com/gsoft/newsapp/MainApplication.java
+ com.gsoft.newsapp.MainApplication
+ com.gsoft.newsapp.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

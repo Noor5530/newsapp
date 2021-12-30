@@ -1,0 +1,435 @@
+{
+  "Category": {
+    "Pakistan": {
+      "name": "پاکستان",
+      "order": "1",
+      "categories": ["Pakistan", "Regional"]
+    },
+    "World": {
+      "name": "دنیا",
+      "order": "2",
+      "categories": ["World"]
+    },
+    "Entertainment": {
+      "name": "انٹرٹینمنٹ",
+      "order": "3",
+      "categories": ["Entertainment", "Showbiz"]
+    },
+    "Corona": {
+      "name": "کورونا",
+      "order": "4",
+      "categories": ["Corona"]
+    },
+    "Sports": {
+      "name": "کھیل",
+      "order": "5",
+      "categories": ["Cricket", "Sports"]
+    },
+    "Health": {
+      "name": "صحت",
+      "order": "6",
+      "categories": ["Health"]
+    },
+    "Business": {
+      "name": "کاروبار",
+      "order": "7",
+      "categories": ["Business"]
+    },
+    "Other": {
+      "name": "دیگر",
+      "order": "8",
+      "categories": ["Science", "Crimes", "Weird", "Magazine"]
+    }
+  },
+  "Channel": {
+    "ExpressNews": {
+      "key": "ExpressNews",
+      "name": "ایکسپریس نیوز",
+      "visible": "true",
+      "image": "https://lh3.googleusercontent.com/Fd4Fk_D17i-kZPQmjwBuoJQt426gz_sLJ2Glx0nse6A5LDWMTGbjBwEyap6FP1edjA",
+      "categories": [
+        {
+          "index": "Pakistan",
+          "key": 0,
+          "title": "پاکستان",
+          "categories": ["Pakistan"]
+        },
+        {
+          "index": "Sports",
+          "key": 1,
+          "title": "کھیل",
+          "categories": ["Sports"]
+        },
+        {
+          "index": "Health",
+          "key": 2,
+          "title": "صحت",
+          "categories": ["Health"]
+        },
+        {
+          "index": "Science",
+          "key": 3,
+          "title": "سائنس",
+          "categories": ["Science"]
+        },
+        {
+          "index": "Business",
+          "key": 4,
+          "title": "کاروبار",
+          "categories": ["Business"]
+        },
+        {
+          "index": "Showbiz",
+          "key": 5,
+          "title": "فن فنکار",
+          "categories": ["Showbiz"]
+        },
+        {
+          "index": "World",
+          "key": 6,
+          "title": "دنیا",
+          "categories": ["World"]
+        },
+        {
+          "index": "Weird",
+          "key": 7,
+          "title": "عجیب",
+          "categories": ["Weird"]
+        }
+      ]
+    },
+    "DunyaNews": {
+      "key": "DunyaNews",
+      "name": "دنیا نیوز",
+      "visible": "true",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Dunya_News.jpg/220px-Dunya_News.jpg",
+      "categories": [
+        {
+          "index": "Pakistan",
+          "key": 0,
+          "title": "پاکستان",
+          "categories": ["Pakistan"]
+        },
+        {
+          "index": "World",
+          "key": 1,
+          "title": "دنیا",
+          "categories": ["World"]
+        },
+        {
+          "index": "Sports",
+          "key": 2,
+          "title": "کھیل",
+          "categories": ["Sports", "Cricket"]
+        },
+        {
+          "index": "Business",
+          "key": 3,
+          "title": "کاروبار",
+          "categories": ["Business"]
+        },
+        {
+          "index": "Entertainment",
+          "key": 4,
+          "title": "انٹرٹینمنٹ",
+          "categories": ["Entertainment"]
+        },
+        {
+          "index": "Crimes",
+          "key": 5,
+          "title": "جرائم",
+          "categories": ["Crimes"]
+        }
+      ]
+    },
+    "BBCNews": {
+      "key": "BBCNews",
+      "name": "بی بی سی نیوز",
+      "visible": "true",
+      "image": "https://static-media.streema.com/media/cache/55/40/5540ea5b85e6b423394a9b8dedccd71b.jpg",
+      "categories": [
+        {
+          "index": "Pakistan",
+          "key": 0,
+          "title": "پاکستان",
+          "categories": ["Pakistan"]
+        },
+        {
+          "index": "Sports",
+          "key": 1,
+          "title": "کھیل",
+          "categories": ["Sports"]
+        },
+        {
+          "index": "World",
+          "key": 2,
+          "title": "دنیا",
+          "categories": ["World"]
+        },
+        {
+          "index": "Regional",
+          "key": 3,
+          "title": "آس پاس",
+          "categories": ["Regional"]
+        },
+        {
+          "index": "Science",
+          "key": 4,
+          "title": "سائنس",
+          "categories": ["Science"]
+        },
+        {
+          "index": "Showbiz",
+          "key": 5,
+          "title": "فن فنکار",
+          "categories": ["Showbiz"]
+        }
+      ]
+    },
+    "GeoNews": {
+      "key": "GeoNews",
+      "name": "جیو نیوز",
+      "visible": "true",
+      "image": "https://pbs.twimg.com/profile_images/3424419325/1884cd4ba5baa961c12e51c164ac1daa_400x400.jpeg",
+      "categories": [
+        {
+          "index": "Pakistan",
+          "key": 0,
+          "title": "پاکستان",
+          "categories": ["Pakistan"]
+        },
+        {
+          "index": "World",
+          "key": 1,
+          "title": "دنیا",
+          "categories": ["Sports"]
+        },
+        {
+          "index": "Business",
+          "key": 2,
+          "title": "کاروبار",
+          "categories": ["Business"]
+        },
+        {
+          "index": "Sports",
+          "key": 3,
+          "title": "کھیل",
+          "categories": ["Sports"]
+        },
+        {
+          "index": "Entertainment",
+          "key": 4,
+          "title": "انٹرٹینمنٹ",
+          "categories": ["Entertainment"]
+        }
+      ]
+    },
+    "AryNews": {
+      "key": "AryNews",
+      "name": "اے آر وائی نیوز",
+      "visible": "true",
+      "image": "https://arynewsudweb.wpengine.com/wp-content/uploads/2019/02/news-logo-2-1.jpg",
+      "categories": [
+        {
+          "index": "Pakistan",
+          "key": 0,
+          "title": "پاکستان",
+          "categories": ["Pakistan"]
+        },
+        {
+          "index": "World",
+          "key": 1,
+          "title": "دنیا",
+          "categories": ["World"]
+        },
+        {
+          "index": "Business",
+          "key": 2,
+          "title": "کاروبار",
+          "categories": ["Business"]
+        },
+        {
+          "index": "Sports",
+          "key": 3,
+          "title": "کھیل",
+          "categories": ["Sports"]
+        },
+        {
+          "index": "Health",
+          "key": 4,
+          "title": "صحت",
+          "categories": ["Health"]
+        },
+        {
+          "index": "Science",
+          "key": 5,
+          "title": "سائنس",
+          "categories": ["Science"]
+        },
+        {
+          "index": "Showbiz",
+          "key": 6,
+          "title": "فن فنکار",
+          "categories": ["Showbiz"]
+        },
+        {
+          "index": "Magazine",
+          "key": 7,
+          "title": "میگزین",
+          "categories": ["Magazine"]
+        },
+        {
+          "index": "Weird",
+          "key": 8,
+          "title": "عجیب",
+          "categories": ["Weird"]
+        }
+      ]
+    },
+    "SamaaNews": {
+      "key": "SamaaNews",
+      "name": "سماء نیوز",
+      "visible": "true",
+      "image": "https://yt3.ggpht.com/ytc/AAUvwnjNrv97tFRzNNG-L6qYU_meSmUsoUFvqIPi1AuKiQ=s900-c-k-c0x00ffffff-no-rj",
+      "categories": [
+        {
+          "index": "Pakistan",
+          "key": 0,
+          "title": "پاکستان",
+          "categories": ["Pakistan"]
+        },
+        {
+          "index": "World",
+          "key": 1,
+          "title": "دنیا",
+          "categories": ["World"]
+        },
+        {
+          "index": "Business",
+          "key": 2,
+          "title": "کاروبار",
+          "categories": ["Business"]
+        },
+        {
+          "index": "Sports",
+          "key": 3,
+          "title": "کھیل",
+          "categories": ["Sports"]
+        },
+        {
+          "index": "Entertainment",
+          "key": 4,
+          "title": "تفریح",
+          "categories": ["Entertainment"]
+        }
+      ]
+    },
+    "JangNews": {
+      "key": "JangNews",
+      "name": "جنگ نیوز",
+      "visible": "true",
+      "image": "https://hamariweb.com/mobiles/showimage.aspx?aid=745",
+      "categories": [
+        {
+          "index": "Latest",
+          "key": 0,
+          "title": "تازہ ترین",
+          "categories": ["Latest"]
+        },
+        {
+          "index": "Pakistan",
+          "key": 1,
+          "title": "پاکستان",
+          "categories": ["Pakistan"]
+        },
+        {
+          "index": "World",
+          "key": 2,
+          "title": "دنیا",
+          "categories": ["World"]
+        },
+        {
+          "index": "Business",
+          "key": 3,
+          "title": "کاروبار",
+          "categories": ["Business"]
+        },
+        {
+          "index": "Sports",
+          "key": 4,
+          "title": "کھیل",
+          "categories": ["Sports"]
+        },
+        {
+          "index": "Entertainment",
+          "key": 5,
+          "title": "انٹرٹینمنٹ",
+          "categories": ["Entertainment"]
+        },
+        {
+          "index": "Special",
+          "key": 6,
+          "title": "خصوصی",
+          "categories": ["Special"]
+        },
+        {
+          "index": "Weird",
+          "key": 7,
+          "title": "عجیب",
+          "categories": ["Weird"]
+        }
+      ]
+    },
+    "DWNews": {
+      "key": "DWNews",
+      "name": "ڈی ڈبلیو",
+      "visible": "false",
+      "image": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_k1yqEIFBHA/company-logo_200_200/0/1544610116142?e=2159024400&v=beta&t=zEaotteCR4PI1BpNJZatcj7C5wmmR76_R5dCH6ysNIE",
+      "categories": [
+        {
+          "index": "Headline",
+          "key": 0,
+          "title": "تازہ ترین",
+          "categories": ["Headline"]
+        },
+        {
+          "index": "CurrentAffairs",
+          "key": 1,
+          "title": "حاضرہ",
+          "categories": ["CurrentAffairs"]
+        },
+        {
+          "index": "Science",
+          "key": 2,
+          "title": "سائنس",
+          "categories": ["Science"]
+        },
+        {
+          "index": "Showbiz",
+          "key": 3,
+          "title": "شوبز",
+          "categories": ["Showbiz"]
+        },
+        {
+          "index": "Sports",
+          "key": 4,
+          "title": "کھیل",
+          "categories": ["Sports"]
+        },
+        {
+          "index": "Society",
+          "key": 5,
+          "title": "سوسائٹی",
+          "categories": ["Society"]
+        }
+      ]
+    },
+    "UrduShorts": {
+      "key": "UrduShorts",
+      "name": "اردو شارٹس",
+      "visible": "false",
+      "image": "https://play-lh.googleusercontent.com/omb3yziHxjE2aUOGiRLKSXnnZzzWTbw-vFZ5ElSVJ55zaS6qjHMrmNfNKniDONIYJAEJ=s180-rw",
+      "categories": []
+    }
+  }
+}

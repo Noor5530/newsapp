@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/build/intermediates/res/merged/debug/drawable_launch_screen.png.flat",
+        "source": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/src/main/res/drawable/launch_screen.png"
+    },
+    {
+        "merged": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/build/intermediates/res/merged/debug/layout_launch_screen.xml.flat",
+        "source": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/src/main/res/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/build/intermediates/res/merged/debug/font_notonastaliqurduregular.ttf.flat",
+        "source": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/src/main/res/font/notonastaliqurduregular.ttf"
+    },
+    {
+        "merged": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/build/intermediates/res/merged/debug/drawable_circle.xml.flat",
+        "source": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/src/main/res/drawable/circle.xml"
+    },
+    {
+        "merged": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/build/intermediates/res/merged/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/gsoft05/Desktop/Gsoft/news-app/android/app/src/main/res/xml/network_security_config.xml"
+    }
+]

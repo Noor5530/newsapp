@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from build type: debug -->
+    <string name="CODE_PUSH_APK_BUILD_TIME" translatable="false">"1640686288882"</string>
+
+    <integer name="react_native_dev_server_port">8081</integer>
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <!-- Values from default config. -->
+    <string name="API_URL" translatable="false">""</string>
+    <string name="APP_STORE_ID" translatable="false">"1"</string>
+    <string name="AppNotificationTopic" translatable="false">"announcements"</string>
+    <string name="BUILD" translatable="false">"production"</string>
+    <string name="CodePushDeploymentIOSKey" translatable="false">"xIeNOER1jT67Kgx6-cA4IJ7xTxaJTCjyrtJ5f"</string>
+    <string name="CodePushDeploymentKey" translatable="false">"5f2OvwEs_B6HJyYQU-VMIPULLFjPqBVCL9KdQ"</string>
+    <string name="LINKING_URL" translatable="false">"https://urdushorts.gsoftconsulting.com"</string>
+    <string name="NotificationTopic" translatable="false">"urdushort"</string>
+    <string name="PACKAGE_NAME" translatable="false">"com.gsoft.newsapp"</string>
+    <string name="app_name" translatable="false">"Urdu News"</string>
+    <string name="build_config_package" translatable="false">"com.gsoft.newsapp"</string>
+    <string name="facebook_app_id" translatable="false">"4048601501858462"</string>
+    <string name="fb_login_protocol_scheme" translatable="false">"fb4048601501858462"</string>
+
+</resources>

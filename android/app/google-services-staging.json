@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050698978550",
+    "project_id": "devnews-app",
+    "storage_bucket": "devnews-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050698978550:android:d93e2c064e771c2ac808d7",
+        "android_client_info": {
+          "package_name": "com.gsoft.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050698978550-1k73hf4c0p154iss1oin4cfona7gmbk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsb_k_u6oZPQmac5WjbfOLAVGIJWuTY18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050698978550-1k73hf4c0p154iss1oin4cfona7gmbk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

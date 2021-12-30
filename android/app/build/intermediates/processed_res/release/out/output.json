@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.gsoft.newsapp",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 8,
+        "versionName": "3.1",
+        "outputFile": "Urdu News-2021-12-30 11-17-55.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "resources-release.ap_",
+      "properties": {
+        "packageId": "com.gsoft.newsapp",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}
